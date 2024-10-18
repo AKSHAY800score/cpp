@@ -1,2 +1,2 @@
 # cpp
-author akshay lohani
+author Akshay lohani
